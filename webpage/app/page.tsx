@@ -22,7 +22,7 @@ function Nav(){
 
 export default function Home() {
   return (
-    <>sarthak
+    <>sarthak tiwari
      <Nav/>
     </>
    
